@@ -24,3 +24,6 @@ This is a long quote.
 
 - [x] this is checked
 - [ ] undo
+- [ ] 2nd job
+- [x] 3rd job
+- [ ] 4th work
